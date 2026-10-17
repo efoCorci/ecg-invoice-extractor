@@ -1,0 +1,32 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Excel test/export outputs
+*.xlsx
+*.xls
+*.csv
+
+# PDF uploads and test bills
+*.pdf
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
